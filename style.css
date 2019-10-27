@@ -119,10 +119,10 @@ h1{
 
 
 .colorchange{
-	animation:  colorchangethapa 1s infinite;
+	animation:  colorchanger 1s infinite;
 }
 
-@keyframes colorchangethapa{
+@keyframes colorchanger{
 	0%{color: red;}
 	25%{color:#bf55ec; ;}
 	50%{ color: white; }
